@@ -1,1 +1,1 @@
-# kristychoi.github.io
+# www.kristychoi.com
