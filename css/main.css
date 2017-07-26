@@ -17,8 +17,8 @@ h1 {
 }
 
 h2 {
-	margin-top: 50px;
-	margin-left: 50px;
+	margin-top: 30px;
+	margin-left: 100px;
 	text-align: left;
 	font-size: 36px;
 	font-weight: 400;
@@ -29,7 +29,7 @@ h2 {
 .h2-li {
 	display:list-item;
 	text-decoration: none;
-	margin-left: 100px;
+	margin-left: 150px;
 	margin-right: 200px;
 	font-size: 18px;
 }
